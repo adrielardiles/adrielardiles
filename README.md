@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**adrielardiles/adrielardiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Adriel,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate backend developer from Perú. I like constantly learning and mastering things which can lead me to be a better professional. I like making creative applications and working in a team. 
+
+
+## 📝 About me:
+- I am currently studying a system engineering degree at Universidad de Lima. ⚙
+- Ask me about JavaScript, Java, Python, Spring, SQL and Kubernetes 🧾
+- How to reach me adrielmarochoardiles@gmail.com 📪
+- I'm currently learning Azure, Angular and English.
+
+## 📚 Languajes:
+
+- Java  
+- Javascript 
+- Python
+- Spring
+- SQL
+
+           
+       
+     
+     
