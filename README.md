@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Adriel,
 
-I'm a passionate backend developer from Perú. I like constantly learning and mastering things which can lead me to be a better professional. I like making creative applications and working in a team. 
+I'm a passionate backend developer from Perú. I like constantly learning and mastering things which can lead me to be a better professional. I enjoy making creative applications and working in a team to bring out innovative solutions which help society. 
 
 
 ## 📝 About me:
